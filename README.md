@@ -4,7 +4,7 @@
 
 These repos focus on Python implementations.  
 
-[Linql Overview](../README.md)
+[Linql Language Overview](https://github.com/LinqlLang/Linql)
 
 ## Example Usage
 
